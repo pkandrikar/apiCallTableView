@@ -2,7 +2,7 @@
 //  User.swift
 //  Assignment
 //
-//  Created by Piyush on 3/1/22.
+//  Created by Sahil Saharkar on 3/1/22.
 //
 
 import Foundation
